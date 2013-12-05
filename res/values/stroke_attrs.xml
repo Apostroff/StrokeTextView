@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StrokeTextView">
+        <attr name="textStrokeColor" format="color"/>
+        <attr name="textStrokeColorPressed" format="color"/>
+        <attr name="textStrokeSize" format="dimension"/>
+    </declare-styleable>
+</resources>
