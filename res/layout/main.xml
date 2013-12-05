@@ -19,7 +19,7 @@
             android:textAppearance="?android:attr/textAppearanceMedium"
             android:textStyle="bold"
             app:textStrokeSize="3dp"
-            app:textStrokeColor="@android:color/transparent"
+            app:textStrokeColor="@android:color/holo_red_light"
             app:textStrokeColorPressed="@android:color/holo_blue_bright"
             />
 </LinearLayout>
